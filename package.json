@@ -1,0 +1,20 @@
+{
+  "name": "esteb_dev_theme",
+  "version": "1.0.0",
+  "description": "esteb_dev_theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estebmaister/esteb_dev_theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estebmaister/esteb_dev_theme/issues"
+  },
+  "homepage": "https://github.com/Estebmaister/esteb_dev_theme#readme"
+}
