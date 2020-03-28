@@ -3,6 +3,8 @@ console.log("Hello World!");
 const express = require("express");
 const server = express();
 
+var path = require("path");
+
 server.get("/json", (req, res) => {
   res.json({ message: "Hello world" });
 });
