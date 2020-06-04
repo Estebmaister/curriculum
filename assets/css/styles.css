@@ -166,6 +166,9 @@ a.dotted-link:hover {
   font-size: 14px;
 }
 /* About Section */
+.about-content {
+  text-align: justify;
+}
 /* Latest Section */
 .latest .item {
   margin-bottom: 30px;
