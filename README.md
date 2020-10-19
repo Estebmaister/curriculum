@@ -4,13 +4,17 @@
 
 ### About Me
 
-Hey! I'm Esteban. Coding has changed my world. It's not just about apps. Learning to code gave me _problem-solving_ skills and a way to communicate with others on a technical level.
+Hey! I'm Esteban. Coding has changed my world. It's not just about apps.
+Learning to code gave me _problem-solving_ skills and a way to communicate with
+others on a technical level.
 
 -- "Declare variables, not war"
 
 ### Repository
 
-esteb-dev is the principal folder for the project, this repository is based on a project of X. Riley and you can find her job [here](http://themes.3rdwavemedia.com).
+esteb-dev is the principal folder for the project, this repository is based on a
+project of X. Riley and you can find her job
+[here](http://themes.3rdwavemedia.com).
 
 Inside there is 3 resume templates, and here is the structure for each one:
 
